@@ -48,6 +48,7 @@ c. As a Frequent User, I want to create an account where I can manage my memeber
  
 * MDBootstrap
 * Bootstrap 4.3
+* Django
 * Google Fonts
 * Git
 * GitHub
@@ -57,6 +58,7 @@ c. As a Frequent User, I want to create an account where I can manage my memeber
 
 * HTML5
 * CSS3
+* Python
 
 
 ## Testing
